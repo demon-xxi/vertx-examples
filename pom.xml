@@ -14,6 +14,7 @@
 
   <modules>
     <module>maven-simplest</module>
+    <module>maven-simplest-ws</module>
     <module>maven-verticles</module>
     <module>core-examples</module>
     <module>web-examples</module>
